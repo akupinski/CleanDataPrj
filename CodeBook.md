@@ -8,8 +8,10 @@ data).  The summary data is written to a whitespace delimited text file called i
 
 See also:  
 - features_info.txt (in the UCI HAR Dataset directory)
-- README.md (for more information about run_analysis.R)
-           
+- [README.md][readme] for more information about run_analysis.R
+
+[readme]: README.md
+
 ###Data Processing
 
 The summary data was produced by merging the testing and training datasets, 
